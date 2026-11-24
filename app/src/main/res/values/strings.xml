@@ -1,0 +1,70 @@
+<resources>
+    <string name="app_name">VA CARS</string>
+    <string name="header_brand_title">VA CARS</string>
+    <string name="header_brand_subtitle">Coimbatore Self-Drive &amp; Rental Cars</string>
+    <string name="location_badge">Thudiyalur, Coimbatore</string>
+
+    <!-- Navigation -->
+    <string name="nav_home">Home</string>
+    <string name="nav_fleet">Fleet</string>
+    <string name="nav_contact">Contact</string>
+
+    <!-- Status & Badges -->
+    <string name="status_live_supabase">Live Supabase</string>
+    <string name="status_sample_fleet">Sample Fleet</string>
+    <string name="status_syncing">Syncing…</string>
+    <string name="badge_available">Available</string>
+    <string name="badge_unavailable">Booked</string>
+    <string name="price_contact_fallback">Contact for price</string>
+
+    <!-- Home Screen -->
+    <string name="hero_headline">Drive Coimbatore\nYour Way</string>
+    <string name="hero_subheadline">Clean, well-maintained self-drive &amp; chauffeur cars starting from Thudiyalur.</string>
+    <string name="hero_cta_browse">Explore Fleet</string>
+    <string name="section_featured_fleet">Featured Fleet</string>
+    <string name="section_all_fleet">Our Fleet</string>
+    <string name="search_placeholder">Search cars by name (e.g. Baleno, Innova)</string>
+    <string name="empty_search_title">No matching cars found</string>
+    <string name="empty_search_subtitle">Try clearing your search or switching fuel &amp; availability filters.</string>
+    <string name="action_clear_filters">Reset Filters</string>
+
+    <!-- Car Details -->
+    <string name="details_title">Vehicle Details</string>
+    <string name="details_specs_heading">Specifications</string>
+    <string name="details_booking_dates">Select Trip Dates</string>
+    <string name="details_pickup_date">Pickup Date</string>
+    <string name="details_drop_date">Drop Date</string>
+    <string name="details_pickup_hub">Pickup Hub: Thudiyalur, Coimbatore</string>
+    <string name="details_book_whatsapp">Book via WhatsApp</string>
+    <string name="details_whatsapp_note">Opens WhatsApp with your selected car and dates pre-filled.</string>
+
+    <!-- Contact Screen -->
+    <string name="contact_title">Visit VA CARS</string>
+    <string name="contact_hub_name">VA CARS — Thudiyalur Hub</string>
+    <string name="contact_address">Mettupalayam Road, Thudiyalur,\nCoimbatore, Tamil Nadu 641034</string>
+    <string name="contact_hours">Open Daily • 6:00 AM – 10:30 PM</string>
+    <string name="contact_whatsapp_cta">Chat on WhatsApp</string>
+    <string name="contact_maps_cta">Get Directions</string>
+    <string name="contact_requirements_title">Self-Drive Requirements</string>
+
+    <!-- Easy Setup Modal -->
+    <string name="setup_title">Supabase Connection</string>
+    <string name="setup_subtitle">Connect your live \"VA CARS\" table in seconds. Credentials are saved locally on this device.</string>
+    <string name="setup_url_label">Supabase Project URL</string>
+    <string name="setup_url_hint">https://your-project.supabase.co</string>
+    <string name="setup_key_label">Supabase Anon Key</string>
+    <string name="setup_key_hint">eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9…</string>
+    <string name="setup_whatsapp_label">WhatsApp Number (Optional)</string>
+    <string name="setup_whatsapp_hint">e.g. 919876543210 (leave blank to pick chat)</string>
+    <string name="setup_save_connect">Save &amp; Connect</string>
+    <string name="setup_use_sample">Use Sample List</string>
+    <string name="setup_close">Close</string>
+
+    <!-- Content Descriptions -->
+    <string name="cd_settings">Open Supabase setup</string>
+    <string name="cd_theme_toggle">Toggle light or dark theme</string>
+    <string name="cd_refresh">Refresh fleet</string>
+    <string name="cd_back">Navigate back</string>
+    <string name="cd_hero_banner">VA CARS Coimbatore showroom banner</string>
+    <string name="cd_clear_search">Clear search query</string>
+</resources>

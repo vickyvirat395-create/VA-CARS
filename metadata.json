@@ -1,0 +1,6 @@
+{
+  "name": "VA CARS",
+  "description": "Coimbatore Self-Drive & Rental Cars based in Thudiyalur, Coimbatore.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
